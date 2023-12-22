@@ -1,7 +1,7 @@
 import React, { useEffect, useState }  from 'react'
-import Sidebar from '../../../components/emotion-detection/Sidebar'
-import BarChart from '../../../components/emotion-detection/BarChart'
-import PieChart from '../../../components/emotion-detection/PieChart'
+import Sidebar from '../../../components/emotion-detection-custom/Sidebar'
+import BarChart from '../../../components/emotion-detection-custom/BarChart'
+import PieChart from '../../../components/emotion-detection-custom/PieChart'
 import {useEmotionContext} from '../../../context/EmotionContext'
 export default function Dataset() {
     const {myData, setMyData, size, setSize } = useEmotionContext();

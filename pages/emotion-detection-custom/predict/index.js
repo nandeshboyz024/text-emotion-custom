@@ -1,5 +1,5 @@
 import React, {useState,useEffect} from 'react'
-import Sidebar from '../../../components/emotion-detection/Sidebar'
+import Sidebar from '../../../components/emotion-detection-custom/Sidebar'
 import {useEmotionContext} from '../../../context/EmotionContext'
 export default function Predict() {
     const {isTrain} = useEmotionContext();

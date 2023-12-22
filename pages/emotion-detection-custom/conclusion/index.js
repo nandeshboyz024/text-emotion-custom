@@ -1,6 +1,6 @@
 import React from 'react'
-import Sidebar from '../../../components/emotion-detection/Sidebar'
-import DoubleX from '../../../components/emotion-detection/DoubleX'
+import Sidebar from '../../../components/emotion-detection-custom/Sidebar'
+import DoubleX from '../../../components/emotion-detection-custom/DoubleX'
 export default function Conclusion(props) {
   return (
     <div>

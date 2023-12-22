@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import Sidebar from '../components/emotion-detection/Sidebar'
+import Sidebar from '../components/emotion-detection-custom/Sidebar'
 
 export default function Home() {
   return (

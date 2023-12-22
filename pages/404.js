@@ -19,7 +19,7 @@ const Errorpage = () => {
                   <p>
                       The page you are looking for might have been removed had its name changed or is temporarily unavailable.
                   </p>
-                  <a href="/emotion-detection" style={{color:'pink'}}>Back To Homepage</a>
+                  <a href="/emotion-detection-custom" style={{color:'pink'}}>Back To Homepage</a>
               </div>
           </div>
           </div>
